@@ -2,7 +2,7 @@
 
 This repository contains the python code related to
 
-> Keune J, Barnard C, Damasio da Costa E, Wetterhall F and Di Giuseppe F: ERA5–Drought: Global drought indices based on ECMWF reanalysis. Submitted to Scientific Data.
+> Keune J, Barnard C, Damasio da Costa E, Wetterhall F and Di Giuseppe F. ERA5–Drought: Global drought indices based on ECMWF reanalysis. Submitted to Scientific Data.
 
 It consists of 5 jupyter notebooks that reproduce Figures 2–7 of the above publication. 
 
