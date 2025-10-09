@@ -6,4 +6,6 @@ This repository contains the python code related to
 
 It consists of 5 jupyter notebooks that reproduce Figures 2–7 of the above publication. 
 
+The ERA5-Drought data can be downloaded via [this link](https://xds-preprod.ecmwf.int).
+
 This code is published under a CC-BY 4.0 license, letting others distribute, remix, tweak, and build upon this work, as long as they credit this work for the original creation. If you use this code, please cite the above publication. 
