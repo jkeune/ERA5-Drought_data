@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+authors:
+- family-names: "Keune"
+  given-names: "Jessica"
+  orcid: "https://orcid.org/0000-0001-6104-2165"
+- family-names: "Di Giuseppe"
+  given-names: "Francesca"
+  orcid: "https://orcid.org/0000-0001-9829-0429"
+- family-names: "Barnard"
+  given-names: "Christopher"
+- family-names: "Damasio Da Costa"
+  given-names: "Eduardo"
+- family-names: "Wetterhall"
+  given-names: "Fredrik"
+  orcid: "https://orcid.org/0000-0001-5331-9064"
+title: "ERA5–Drought: Global drought indices based on ECMWF reanalysis"
+version: 1.0.0
+doi: 10.1038/s41597-025-04896-y
+date-released: 2025-04-14
+url: "https://doi.org/10.1038/s41597-025-04896-y"
+preferred-citation:
+   type: article
+   authors:
+   - family-names: "Keune"
+     given-names: "Jessica"
+     orcid: "https://orcid.org/0000-0001-6104-2165"
+   - family-names: "Di Giuseppe"
+     given-names: "Francesca"
+     orcid: "https://orcid.org/0000-0001-9829-0429"
+   - family-names: "Barnard"
+     given-names: "Christopher"
+   - family-names: "Damasio Da Costa"
+     given-names: "Eduardo"
+   - family-names: "Wetterhall"
+     given-names: "Fredrik"
+     orcid: "https://orcid.org/0000-0001-5331-9064"
+   doi: "10.1038/s41597-025-04896-y"
+   journal: "Scientific Data"
+   title: "ERA5–Drought: Global drought indices based on ECMWF reanalysis"
+   year: 2025
+   url: "https://www.nature.com/articles/s41597-025-04896-y"
+   volume: 12
+   issue: 616
+   year: 2025
